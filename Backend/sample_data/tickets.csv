@@ -1,0 +1,61 @@
+ticket_id,message,category
+1,"I was charged twice for my order",Billing
+2,"Please refund the extra payment",Billing
+3,"My invoice contains the wrong amount",Billing
+4,"The payment failed but money was deducted",Billing
+5,"I need help understanding my last bill",Billing
+6,"My subscription renewal was charged incorrectly",Billing
+7,"The transaction appears twice on my statement",Billing
+8,"I have not received my payment refund",Billing
+9,"I cannot log in to my account",Access
+10,"My password reset link is not working",Access
+11,"My account is locked and I cannot sign in",Access
+12,"I am unable to access my profile",Access
+13,"The login page rejects my correct password",Access
+14,"I need help recovering my account",Access
+15,"I cannot verify my account to sign in",Access
+16,"My account access was denied",Access
+17,"The application crashes when I open it",Technical
+18,"I receive an error when uploading a file",Technical
+19,"The dashboard is not loading properly",Technical
+20,"The app keeps freezing during use",Technical
+21,"A feature stopped working after the update",Technical
+22,"The server returns an unexpected error",Technical
+23,"My report export fails every time",Technical
+24,"The application is running very slowly",Technical
+25,"What are your customer support hours",General
+26,"Where can I find your company address",General
+27,"I would like information about your services",General
+28,"How can I contact your sales department",General
+29,"Can you explain the available subscription plans",General
+30,"Where can I read your frequently asked questions",General
+31,"My invoice shows an incorrect charge",Billing
+32,"There is a mistake in my monthly bill",Billing
+33,"I was billed for a service I did not use",Billing
+34,"Please explain the charges on my invoice",Billing
+35,"My subscription payment amount is incorrect",Billing
+36,"What subscription plans do you offer",General
+37,"Tell me more about your available service plans",General
+38,"Where can I compare your different plans",General
+39,"I want information about the features of each plan",General
+40,"Can you tell me which plans are available",General
+41,"I cannot reset my account password",Access
+42,"My account login credentials are not accepted",Access
+43,"I forgot my password and need account access",Access
+44,"I cannot sign in after resetting my password",Access
+45,"Please help me unlock my account",Access
+46,"The application displays an unexpected error",Technical
+47,"My software crashes whenever I start it",Technical
+48,"The file upload feature is broken",Technical
+49,"The dashboard freezes when I open a report",Technical
+50,"The application fails to load the home page",Technical
+51,"My payment was deducted but my order was not confirmed",Billing
+52,"I was charged twice for the same subscription",Billing
+53,"The invoice amount is incorrect on my account",Billing
+54,"The application crashes every time I upload a file",Technical
+55,"The website shows an internal server error when I open settings",Technical
+56,"The app keeps freezing and stops responding",Technical
+57,"I forgot my password and cannot sign in to my account",Access
+58,"My account is locked and I cannot log in",Access
+59,"How can I update my profile information?",General
+60,"Where can I find information about your support hours?",General
